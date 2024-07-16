@@ -1,1 +1,1 @@
-This is newfile.txt
+This is newfile.txt in a feature branch.
